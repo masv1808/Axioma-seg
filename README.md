@@ -12,7 +12,3 @@ AXIOMA es una arquitectura de defensa diseñada para devolver al usuario el cont
 ​Comunicación con Servidores No Autorizados: Intentos de envío de datos a servidores externos fuera de la lista blanca.
 ​🎯 Objetivo
 ​Recuperar el control. La soberanía digital no es una opción, es un requerimiento técnico.
-​Pasos finales para que esto quede grabado en piedra:
-​Una vez que pegues el texto, baja por la página hasta que veas un recuadro llamado "Commit changes" (Confirmar cambios).
-​En el cuadro de texto que dice "Update README.md", puedes escribir algo como: "Actualización: Manifiesto y Protocolos de Defensa".
-​Pulsa el botón verde "Commit changes".
